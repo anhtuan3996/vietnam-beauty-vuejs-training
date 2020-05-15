@@ -1,4 +1,4 @@
-# vietnam-beauty
+# vietnam-beauty-vuejs-training
 
 ## Project setup
 ```
